@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Jam.Plugins", "Game Jam.Plugins.csproj", "{ECE2F60E-1570-779D-B8D3-E15B2A747B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Jam", "Game Jam.csproj", "{5387C1F9-CB68-376E-2C0B-871245A0E6D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Jam.Editor", "Game Jam.Editor.csproj", "{2C587A6F-3946-B86A-E667-2BF62282563B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE2F60E-1570-779D-B8D3-E15B2A747B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE2F60E-1570-779D-B8D3-E15B2A747B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE2F60E-1570-779D-B8D3-E15B2A747B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE2F60E-1570-779D-B8D3-E15B2A747B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5387C1F9-CB68-376E-2C0B-871245A0E6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5387C1F9-CB68-376E-2C0B-871245A0E6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5387C1F9-CB68-376E-2C0B-871245A0E6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5387C1F9-CB68-376E-2C0B-871245A0E6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C587A6F-3946-B86A-E667-2BF62282563B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C587A6F-3946-B86A-E667-2BF62282563B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C587A6F-3946-B86A-E667-2BF62282563B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C587A6F-3946-B86A-E667-2BF62282563B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
